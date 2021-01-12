@@ -1,0 +1,20 @@
+{
+  "firstName": "Susan",
+  "lastName": "Mavris",
+  "employeeId": 203,
+  "department": {
+    "departmentId": 40,
+    "departmentName": "Human Resources",
+    "location": {
+      "locationCountry": "UK",
+      "locationState": "",
+      "locationCity": "London",
+      "locationId": 2400
+    }
+  },
+  "job": {
+    "title": "Human Resources Representative",
+    "jobId": "HR_REP",
+    "salary": 9000.0
+  }
+}

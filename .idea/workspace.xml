@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="35567a05-5032-4ce6-b74c-28594e30cc09" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1mDHpC3sI8tGnTJAY5kp0p4OUfg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="JUnit.RestPost.postTest">
+    <configuration name="GotShow.GotCharacters" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Beki" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="restAssured.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="restAssured" />
+      <option name="MAIN_CLASS_NAME" value="restAssured.GotShow" />
+      <option name="METHOD_NAME" value="GotCharacters" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RestPost" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Beki" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="restAssured.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="restAssured" />
+      <option name="MAIN_CLASS_NAME" value="restAssured.RestPost" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RestPost.postTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Beki" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="restAssured.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="restAssured" />
+      <option name="MAIN_CLASS_NAME" value="restAssured.RestPost" />
+      <option name="METHOD_NAME" value="postTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StarWars" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Beki" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="restAssured.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="restAssured" />
+      <option name="MAIN_CLASS_NAME" value="restAssured.StarWars" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StarWars.planetTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Beki" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="restAssured.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="restAssured" />
+      <option name="MAIN_CLASS_NAME" value="restAssured.StarWars" />
+      <option name="METHOD_NAME" value="planetTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.RestPost.postTest" />
+        <item itemvalue="JUnit.RestPost" />
+        <item itemvalue="JUnit.StarWars" />
+        <item itemvalue="JUnit.StarWars.planetTest" />
+        <item itemvalue="JUnit.GotShow.GotCharacters" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="35567a05-5032-4ce6-b74c-28594e30cc09" name="Default Changelist" comment="" />
+      <created>1609021421656</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609021421656</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="719" y="323" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1610245569491">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="719" y="323" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1610245569491" />
+    <state x="719" y="323" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1609022278441" />
+    <state x="791" y="204" key="#com.intellij.ide.util.MemberChooser" timestamp="1609558224686">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="791" y="204" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1609558224686" />
+    <state x="791" y="204" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1609371265610" />
+    <state width="1860" height="276" key="GridCell.Tab.0.bottom" timestamp="1610251507993">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1860" height="276" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1610251507993" />
+    <state width="1860" height="276" key="GridCell.Tab.0.center" timestamp="1610251507993">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1860" height="276" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1610251507993" />
+    <state width="1860" height="276" key="GridCell.Tab.0.left" timestamp="1610251507993">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1860" height="276" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1610251507993" />
+    <state width="1860" height="276" key="GridCell.Tab.0.right" timestamp="1610251507993">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1860" height="276" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1610251507993" />
+    <state x="490" y="175" key="Maven.ArtifactSearchDialog" timestamp="1610158034310">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="490" y="175" key="Maven.ArtifactSearchDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1610158034310" />
+    <state x="655" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1610218859121">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="655" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1610218859121" />
+    <state x="349" y="222" key="new project wizard" timestamp="1610309373480">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="349" y="222" key="new project wizard/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1610309373480" />
+    <state x="761" y="285" key="run.anything.popup" timestamp="1609095254156">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="761" y="285" key="run.anything.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1609095254156" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1610243079399">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1610243079399" />
+    <state x="623" y="225" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1610131578360" />
+    <state x="682" y="432" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1609093958785">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="682" y="432" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1609093958785" />
+  </component>
+</project>
